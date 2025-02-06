@@ -1,12 +1,6 @@
-<img width="1357" alt="Profile" src="./profile_img
-.png">
-
-
-
-
+![Profile](./profile_img.png)
 
 </span>
-
 
 <span align="left"> 
   <img src="https://komarev.com/ghpvc/?username=devendramaharshi005&label=Profile%20views&color=0F172A&style=for-the-badge" alt="devendramaharshi005" /> 
@@ -17,14 +11,15 @@
 I am a Full-Stack Developer with experience in React, Node.js, and Express, specializing in building scalable and high-performance applications. Passionate about writing clean, maintainable code, I have worked on frontend and backend development, RESTful APIs, authentication, and CI/CD pipelines. I enjoy solving complex problems and continuously learning new technologies to enhance user experience and application security.
 
 ## Connect with me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendra-maharshi-995704212/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devendramaharshi005)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/KRypC4oWfv/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devendramaharshi005@gmail.com) <br>
- <br>
-
+<br>
 
 ## Skills
+
 [![HTML5 Badge](https://img.shields.io/badge/html5-%230F172A.svg?style=for-the-badge&logo=html5&logoColor=white)](https://your-link-here)
 ![CSS Badge](https://img.shields.io/badge/css-%230F172A.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/javascript-%230F172A.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -52,8 +47,6 @@ I am a Full-Stack Developer with experience in React, Node.js, and Express, spec
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-%230F172A.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-%230F172A.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Mongoose Badge](https://img.shields.io/badge/Mongoose-%230F172A.svg?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
-
-
 
 ## GitHub Stats
 
