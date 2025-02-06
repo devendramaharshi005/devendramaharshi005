@@ -37,7 +37,6 @@ I am a Full-Stack Developer with experience in React, Node.js, and Express, spec
 [![Linux Badge](https://img.shields.io/badge/linux-%230F172A.svg?style=for-the-badge&logo=linux&logoColor=white)](https://your-linux-link-here)
 [![Figma Badge](https://img.shields.io/badge/figma-%230F172A.svg?style=for-the-badge&logo=figma&logoColor=white)](https://your-figma-link-here)
 [![Git Badge](https://img.shields.io/badge/git-%230F172A.svg?style=for-the-badge&logo=git&logoColor=white)](https://your-git-link-here)
-[![Visual Basic Badge](https://img.shields.io/badge/Visual_Basic-%230F172A.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://your-visual-basic-link-here)
 [![Next.js Badge](https://img.shields.io/badge/Next.js-%230F172A.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://your-next-js-link-here)
 [![Node.js Badge](https://img.shields.io/badge/Node.js-%230F172A.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js Badge](https://img.shields.io/badge/Express.js-%230F172A.svg?style=for-the-badge)](https://expressjs.com/)
@@ -47,13 +46,3 @@ I am a Full-Stack Developer with experience in React, Node.js, and Express, spec
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-%230F172A.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-%230F172A.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Mongoose Badge](https://img.shields.io/badge/Mongoose-%230F172A.svg?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
-
-## GitHub Stats
-
-<div style="display : flex; flexDirection: row; gap: 10px;" align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devendramaharshi005&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devendramaharshi005&layout=compact&theme=tokyonight)
-
-</div>
